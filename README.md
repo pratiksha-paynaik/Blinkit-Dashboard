@@ -98,3 +98,5 @@ This dashboard transforms raw sales data into actionable business insights by an
 ---
 
 ## Dashboard Preview
+
+![Blinkit Dashboard](https://github.com/pratiksha-paynaik/Blinkit-Dashboard/blob/main/Snapshot%20of%20Dashbord.png)
